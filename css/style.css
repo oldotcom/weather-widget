@@ -55,3 +55,9 @@
     content: "℃";
     margin-left: 2px;
 }
+
+.weather__loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
